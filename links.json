@@ -1,0 +1,203 @@
+{
+    "categories": [
+        {
+            "name": "工具",
+            "color": "#ffffff",
+            "hidden": false,
+            "links": [
+                {
+                    "name": "互传",
+                    "url": "https://www.ndter.com/hc/",
+                    "icon": "gtshi.png",
+                    "color": "#ffffff",
+                    "favorite": true
+                },
+                {
+                    "name": "DeepSeek",
+                    "url": "https://chat.deepseek.com/",
+                    "icon": "deepseek.png",
+                    "color": "#ffffff",
+                    "favorite": true
+                },
+                {
+                    "name": "Kimi",
+                    "url": "https://www.kimi.com/",
+                    "icon": "kimi.png",
+                    "color": "#ffffff",
+                    "favorite": true
+                },
+                {
+                    "name": "豆包",
+                    "url": "https://www.doubao.com/chat/",
+                    "icon": "doubao.png",
+                    "color": "#ffffff",
+                    "favorite": false
+                },
+                {
+                    "name": "千问",
+                    "url": "https://www.qianwen.com/",
+                    "icon": "qianwen.png",
+                    "color": "#ffffff",
+                    "favorite": false
+                },
+                {
+                    "name": "加密解密",
+                    "url": "https://www.somd5.com/",
+                    "icon": "somd5.png",
+                    "color": "",
+                    "favorite": false
+                },
+                {
+                    "name": "子域查询",
+                    "url": "https://chaziyu.com/",
+                    "icon": "chaziyu.png",
+                    "color": "",
+                    "favorite": false
+                },
+                {
+                    "name": "顶级域名",
+                    "url": "https://zh-hans.tld-list.com/",
+                    "icon": "tld-list.png",
+                    "color": "",
+                    "favorite": false
+                },
+                {
+                    "name": "素材中国",
+                    "url": "http://www.sccnn.com/",
+                    "icon": "sccnn.png",
+                    "color": "#ffffff",
+                    "favorite": false
+                },
+                {
+                    "name": "阿里图标",
+                    "url": "https://www.iconfont.cn/",
+                    "icon": "iconfont.png",
+                    "color": "",
+                    "favorite": false
+                },
+                {
+                    "name": "Favicon",
+                    "url": "https://favicon.pub/cn",
+                    "icon": "favicon.png",
+                    "color": "#ffffff",
+                    "favorite": false
+                },
+                {
+                    "name": "图片处理",
+                    "url": "https://resizebox.com/zh",
+                    "icon": "resizebox.png",
+                    "color": "",
+                    "favorite": false
+                }
+            ],
+            "cols": 6
+        },
+        {
+            "name": "软件",
+            "color": "",
+            "hidden": false,
+            "cols": null,
+            "links": [
+                {
+                    "name": "破解软件",
+                    "url": "https://www.cybermania.ws/",
+                    "icon": "cybermania.png",
+                    "color": "#ffffff",
+                    "favorite": true
+                },
+                {
+                    "name": "破解软件",
+                    "url": "https://www.cybermania.ws/",
+                    "icon": "cybermania.png",
+                    "color": "",
+                    "favorite": false
+                },
+                {
+                    "name": "吾爱破解",
+                    "url": "https://www.52pojie.cn/",
+                    "icon": "52pojie.png",
+                    "color": "#ffffff",
+                    "favorite": true
+                },
+                {
+                    "name": "果核剥壳",
+                    "url": "https://www.ghxi.com/",
+                    "icon": "ghxi.png",
+                    "color": "#ffffff",
+                    "favorite": true
+                }
+            ]
+        },
+        {
+            "name": "娱乐",
+            "color": "#ffffff",
+            "hidden": false,
+            "links": [
+                {
+                    "name": "斗鱼",
+                    "url": "https://www.douyu.com/",
+                    "icon": "douyu.png",
+                    "color": "#ffffff",
+                    "favorite": true
+                },
+                {
+                    "name": "抖音",
+                    "url": "https://www.douyin.com/",
+                    "icon": "douyin.png",
+                    "color": "#ffffff",
+                    "favorite": true
+                },
+                {
+                    "name": "免费游戏",
+                    "url": "https://byrut.org/",
+                    "icon": "byrut.png",
+                    "color": "",
+                    "favorite": false
+                },
+                {
+                    "name": "红警任务",
+                    "url": "https://rw.ra2map.com/",
+                    "icon": "ra2map.png",
+                    "color": "",
+                    "favorite": false
+                },
+                {
+                    "name": "游戏ROM",
+                    "url": "https://romsfun.com/",
+                    "icon": "romsfun.png",
+                    "color": "",
+                    "favorite": false
+                },
+                {
+                    "name": "游戏ROM",
+                    "url": "https://www.retrostic.com/",
+                    "icon": "retrostic.png",
+                    "color": "",
+                    "favorite": false
+                },
+                {
+                    "name": "蒸汽游戏",
+                    "url": "https://www.steambk.com/",
+                    "icon": "steambk.png",
+                    "color": "#ffffff",
+                    "favorite": false
+                },
+                {
+                    "name": "空洞骑士",
+                    "url": "https://hollowknight.cc/guide/hollow-knight-beginner-route",
+                    "icon": "hollowknight.png",
+                    "color": "#ffffff",
+                    "favorite": false
+                },
+                {
+                    "name": "怪物猎人",
+                    "url": "https://mhrise.kiranico.com/zh",
+                    "icon": "kiranico.png",
+                    "color": "#ffffff",
+                    "favorite": false
+                }
+            ],
+            "cols": 6
+        }
+    ]
+}
